@@ -1,0 +1,26 @@
+.cajita{
+    padding: 100px ;
+    height: 1500px;
+    background-color: aqua; 
+    margin: 10px 15px 10px 15px;
+    border-radius: 5%;
+}
+.cajita_2{
+   
+    height: 200px;
+    width: 200px;
+    background-color:azure; 
+    margin: 15px 10px 1080px 10px;
+    border-radius: 100%;
+}
+.cajita_3{
+    height: 6px;
+    margin: 10px 15px 10px  15px;
+    background-color:azure;
+    width: 80px;
+     padding: 150px 550px 15px 100px;
+    border-radius:20px;
+    text-align: center;
+   
+}
+ padding: 150px 550px 15px 100px;
